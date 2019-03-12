@@ -1,4 +1,6 @@
 # PAM
+ 
+ pluggable authentication module -PAM
 
 Reference 
 
